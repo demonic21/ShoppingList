@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Shopping List</string>
+    <string name="title_section1">쇼핑 목록</string>
+    <string name="title_section2">구매 목록</string>
+    <string name="title_section3">물품 추가</string>
+    <string name="item">물품명</string>
+    <string name="item_inquiry">조회</string>
+    <string name="min_cost">최저값</string>
+    <string name="avg_cost">평균값</string>
+    <string name="web_cost">인터넷 최저가</string>
+    <string name="item_add">추가</string>
+    <string name="end_shopping">쇼핑 완료</string>
+    <string name="load_shopping_list">쇼핑 목록 불러오기</string>
+    <string name="load_items">불러오기</string>
+
+</resources>
